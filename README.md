@@ -8,4 +8,4 @@ For futher discussion with me:  [My Personal Site](yaozeliang.com/resume/
 
 Email: zeliang.yao@efrei.net
 
-wechat:alpha94511
+> wechat: alpha94511
